@@ -5,4 +5,4 @@
 :mailbox: c230054@ed.nagoya-cu.ac.jp
 
 ## Tech Stack :rocket:
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,nextjs,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,nextjs)](https://skillicons.dev)
