@@ -1,26 +1,5 @@
 # Tech Stack
-### Development Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
-### Frontend Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs)](https://skillicons.dev)
-### Backend Languages
-[![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
-### Data Science
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,go,py,html,css,js,ts,react,nextjs)](https://skillicons.dev)
+
 # Contributions
 <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contributions" />
-
-<!--
-**aukri1690/aukri1690** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
