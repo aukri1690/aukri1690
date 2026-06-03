@@ -1,4 +1,5 @@
-## Hi there 👋
+# 技術スタック
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,go,py,html,css,js,ts,react,nextjs)](https://skillicons.dev)
 
 <!--
 **aukri1690/aukri1690** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
