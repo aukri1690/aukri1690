@@ -1,6 +1,12 @@
 # Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,go,py,html,css,js,ts,react,nextjs)](https://skillicons.dev)
-
+### Development Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
+### Frontend Languages
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs)](https://skillicons.dev)
+### Backend Languages
+[![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
+### Data Science
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 # Contributions
 <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contributions" />
 
