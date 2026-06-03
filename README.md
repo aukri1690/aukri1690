@@ -2,7 +2,7 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,go,py,html,css,js,ts,react,nextjs)](https://skillicons.dev)
 
 # Contributions
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions" />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="70%" alt="3D Contributions" />
 
 <!--
 **aukri1690/aukri1690** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
